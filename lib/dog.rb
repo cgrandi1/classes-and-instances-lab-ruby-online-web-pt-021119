@@ -1,3 +1,4 @@
+def dog
 class Dog 
   fido = dog.new 
 
@@ -7,7 +8,7 @@ class Dog
 end 
 
 
-
+def person
 class Person
   adele_goldberg.new
 
