@@ -2,12 +2,12 @@ class Dog
  
 end 
 
+fido = dog.new 
 
-def person
-class Person
-  adele_goldberg.new
+snoopy = dog.new
 
-  alan_kay.new
-end 
+lassie = dog.new 
+
+ 
 
  
